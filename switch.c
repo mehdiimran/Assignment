@@ -20,76 +20,76 @@ int main()
    switch(ch)
    {
        case 'A':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'B':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'C':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'D':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'E':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'F':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'G':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'H':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'I':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'J':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'K':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'L':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'M':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'N':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'O':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'P':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'Q':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'R':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'S':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'T':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'U':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'V':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'W':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'X':
-       printf("Hello %c",ch);
+       printf("Hello %c\n",ch);
        break;
        case 'Y':
        printf("Hello %c",ch);
